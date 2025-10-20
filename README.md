@@ -78,5 +78,8 @@ projects/team-a/
 ```
 # upstage-projects
 
+- https://llamaacademy.kr/notice/%EA%B3%B5%EC%A7%80-%EC%84%B1%EA%B3%BC%EA%B3%B5%EC%9C%A0%ED%9A%8C-%EA%B8%B0%EC%82%AC-%ED%99%95%EC%9D%B8RAPA-%EB%A9%94%ED%83%80%EC%99%80-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-AI-%EC%9D%B8%EC%9E%AC-%ED%82%A4%EC%9B%A0%EB%8B%A4%E2%80%A6%EC%84%B1%EA%B3%BC%EA%B3%B5%EC%9C%A0%ED%9A%8C-%EC%84%B1%EB%A3%8C-%EB%B0%8F-%EA%B9%83%ED%97%88%EB%B8%8C-%EC%95%84%EC%B9%B4%EC%9D%B4%EB%B9%99
+
+- https://www.etnews.com/20251002000253
 
 최우수상에는 개인 업무정보를 중앙화한 맵핵을 선보인 '너도할수있어' 팀이 선정됐다. 우수상은 산업 데이터 분석 애널리틱 에이전트를 선보인 'SmartWay' 팀과 AI 코드 리뷰를 통한 자동코드 취약점 분석 시스템을 개발한 'LLaMA Gurard' 팀이 수상했다. 수상팀 전원은 업스테이지 인턴십 서류전형 면제 혜택을 받는다.
